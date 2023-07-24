@@ -184,11 +184,9 @@ You will also explore this alternative tool: Sikulix (http://sikulix.com/quickst
 
 1.  Make yourself familiarize with Selenium IDE plug-in and how to run record and replay (playback) with Selenium. You may use these recourses and/or others online.
 
-    1.  <http://www.seleniumhq.org/projects/ide/>
-
-    1.  <http://toolsqa.com/selenium-ide-tutorial/>
-
     1.  <https://www.guru99.com/install-selenuim-ide.html>
+    1.  <https://www.guru99.com/first-selenium-test-script.html>
+    1.  <http://www.seleniumhq.org/projects/ide/>
 
 1.  **Design** your UI test cases:
 
