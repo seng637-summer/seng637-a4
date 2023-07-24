@@ -232,7 +232,7 @@ A portion of the grade for the lab report will be allocated to organization and 
 | All the statistics and the mutation score for each of the mutated classes (`Range` and `DataUtilities`) with each test suite class (original and the updated one) | 20  |
 | A discussion on the effect of equivalent mutants on mutation score accuracy including a discussion on how equivalent mutants could be detected                    | 10  |
 | A discussion of how you improved the mutation score of the test suites. Your design strategy.                                                                     | 5   |
-ƒ| A discussion on the advantages and disadvantages of mutation testing                                                                                              | 5   |
+| A discussion on the advantages and disadvantages of mutation testing                                                                                              | 5   |
 | **GUI Testing (48)**                                                                                                                                              |     |
 | Correctness and completeness of the Recorded test cases (at least 2 per group member)                                                                             | 10  |
 | Explain your test case design process                                                                                                                             | 10  |
